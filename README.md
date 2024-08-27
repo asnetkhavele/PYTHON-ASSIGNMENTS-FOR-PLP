@@ -1,4 +1,7 @@
 here are my python assignments for plp 
+
 week 1: user_input.py
-wee 2: week 2 assignment
+
+wee 2: week_two.py
+
 week 3; calculation_discount.py
